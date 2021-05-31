@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/trydo-cloneapp/static/css/main.39fb7a3b.chunk.css",
-    "main.js": "/trydo-cloneapp/static/js/main.96792999.chunk.js",
-    "main.js.map": "/trydo-cloneapp/static/js/main.96792999.chunk.js.map",
+    "main.css": "/trydo-cloneapp/static/css/main.df0da46a.chunk.css",
+    "main.js": "/trydo-cloneapp/static/js/main.a83438c6.chunk.js",
+    "main.js.map": "/trydo-cloneapp/static/js/main.a83438c6.chunk.js.map",
     "runtime-main.js": "/trydo-cloneapp/static/js/runtime-main.35c9d96c.js",
     "runtime-main.js.map": "/trydo-cloneapp/static/js/runtime-main.35c9d96c.js.map",
     "static/css/2.61b4cb56.chunk.css": "/trydo-cloneapp/static/css/2.61b4cb56.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.12d68e6b.chunk.js.map": "/trydo-cloneapp/static/js/2.12d68e6b.chunk.js.map",
     "index.html": "/trydo-cloneapp/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/trydo-cloneapp/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.39fb7a3b.chunk.css.map": "/trydo-cloneapp/static/css/main.39fb7a3b.chunk.css.map",
+    "static/css/main.df0da46a.chunk.css.map": "/trydo-cloneapp/static/css/main.df0da46a.chunk.css.map",
     "static/js/2.12d68e6b.chunk.js.LICENSE.txt": "/trydo-cloneapp/static/js/2.12d68e6b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/trydo-cloneapp/static/media/home.48099734.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.35c9d96c.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.12d68e6b.chunk.js",
-    "static/css/main.39fb7a3b.chunk.css",
-    "static/js/main.96792999.chunk.js"
+    "static/css/main.df0da46a.chunk.css",
+    "static/js/main.a83438c6.chunk.js"
   ]
 }
