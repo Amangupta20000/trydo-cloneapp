@@ -44,21 +44,23 @@
   background-color: #1d1d24;
   color: whitesmoke;
 }
-.card {
+.cards {
   width: 18rem !important;
   height: 18rem;
   background-color: #1d1d24 !important;
   border-radius: 15px !important;
   cursor: pointer;
   border: none !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
-.card:hover {
+.cards:hover {
   background-image: linear-gradient(90deg, #f61b10, #ef0963) !important;
   transition: all 0.1s cubic-bezier(0.645, 0.045, 0.355, 1) !important;
   transform: translate(0, -20px) !important;
   transition-duration: 0s;
 }
-.card:hover .icons {
+.cards:hover .icons {
   color: #fff;
 }
 .icons {
@@ -152,6 +154,10 @@
   border-radius: 6px;
   transition: 0.5s;
 }
+.cardAllign {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
 .footerbtn:hover {
   background-color: transparent !important;
   color: #1d1d24 !important;
@@ -189,5 +195,27 @@
   }
   .parallex {
     background-image: linear-gradient(red, yellow, green);
+  }
+}
+@media (max-width: 576px) {
+  .cardAllign {
+    flex: 0 0 auto !important;
+    width: 70% !important;
+  }
+  .cards {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
+  .cardAllign {
+    margin-left: 9rem !important;
+    /* margin-right: 0 !important; */
+  }
+  .cards {
+    height: 450px !important;
+    width: 450px !important;
+    font-size: calc(1.325rem + 0.9vw) !important;
+  }
+  .card-title {
+    font-size: calc(1.325rem + 1.2vw) !important;
   }
 }

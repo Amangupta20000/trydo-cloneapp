@@ -9,7 +9,7 @@ function Features() {
 
          
        
-        <div className="col-10 text-center mx-auto">
+        <div className="cardAllign col-10 text-center ">
         <div className="row " >
         {
 

@@ -6,7 +6,7 @@ function Card(props) {
     
     return (
         
-        <div className="card col-lg-3 col-10 mx-auto" data-aos="fade-right" data-aos-duration="1500" >
+        <div className="cards " data-aos="fade-right" data-aos-duration="1500" >
            <h1 className="pt-3"> {props.imgscr}</h1>
         
             <div className="card-body">
