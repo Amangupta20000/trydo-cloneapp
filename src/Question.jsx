@@ -87,7 +87,7 @@ export default function CustomizedAccordions() {
 
       <Accordion square expanded={expanded === 'panel3'} onChange={handleChange('panel3')}>
         <AccordionSummary aria-controls="panel3d-content" id="panel3d-header">
-          <Typography className="fs-4 mb-3">How can I change my demo page instead of splash page?</Typography>
+          <Typography className="fs-4 mb-3 text-left">How can I change my demo page instead of splash page?</Typography>
         </AccordionSummary>
         <AccordionDetails className="light">
           <Typography className="fs-5 ">

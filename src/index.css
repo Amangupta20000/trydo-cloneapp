@@ -179,12 +179,15 @@
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 579px) {
   .navbar-nav {
     flex-direction: row !important;
   }
   .navbar-nav .nav-link {
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
+  }
+  .parallex {
+    background-image: linear-gradient(red, yellow, green);
   }
 }

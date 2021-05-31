@@ -5,7 +5,7 @@ function Parallex() {
     return (
         <div className="parallex">
         
-            <div className="col-lg-5 position-fixed ">
+            <div className="col-lg-5 col-md-6 col-sm-7 position-fixed ">
                   <img src={logo} data-aos="fade-left"
                   data-aos-anchor="#example-anchor"
                   data-aos-offset="500" 
