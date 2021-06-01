@@ -195,6 +195,7 @@
   }
   .parallex {
     background-image: linear-gradient(red, yellow, green);
+    height: 1000px;
   }
 }
 @media (max-width: 576px) {
@@ -217,5 +218,13 @@
   }
   .card-title {
     font-size: calc(1.325rem + 1.2vw) !important;
+  }
+}
+@media (max-width: 414px) {
+  .parallex {
+    height: 1400px;
+  }
+  .position-fixed {
+    margin: 460px 100px;
   }
 }
